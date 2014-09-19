@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<Document xmlns="http://www.evolus.vn/Namespace/Pencil"><Properties/><Pages><Page><Properties><Property name="name">P Sorda</Property><Property name="id">1410643461109_5159</Property><Property name="width">977</Property><Property name="height">536</Property><Property name="dimBackground"/><Property name="transparentBackground">true</Property><Property name="backgroundColor">#FFFFFFFF</Property><Property name="background">transparent</Property></Properties><Content><g xmlns="http://www.w3.org/2000/svg" p:type="Shape" xmlns:p="http://www.evolus.vn/Namespace/Pencil" p:def="Evolus.Common:Bitmap" id="dada46fb3f9747099e0c672bbbed3726" transform="matrix(1,0,0,1,84,-44)"><p:metadata><p:property name="box"><![CDATA[535,481]]></p:property><p:property name="imageData"><![CDATA[556,500,âInterfaces(2vision-1auditiva).data/001.001.png]]></p:property><p:property name="withBlur"><![CDATA[false]]></p:property><p:property name="fillColor"><![CDATA[#FFFFFF00]]></p:property><p:property name="strokeColor"><![CDATA[#000000FF]]></p:property><p:property name="strokeStyle"><![CDATA[0|]]></p:property></p:metadata>
+            <defs>
+                <filter height="1.2558399" y="-0.12792" width="1.06396" x="-0.03198" p:name="imageShading" id="24af14ea2197475ca3059a9e22e7d643">
+                    <feGaussianBlur stdDeviation="1.3325" in="SourceAlpha"/>
+                </filter>
+                <g p:name="container" id="6424e7f473df418ba2136746be1dcbd7">
+                    <rect style="fill: rgb(255, 255, 255); stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 0; fill-opacity: 0;" p:name="bgRect" id="f1c7044b3e784319bc10d9dc3d7e80c3" width="535" height="481" transform="translate(0,0)"/>
+                    <g p:name="imageContainer" id="584e74ec3fd14ebf8d999aa1c16b3cef" transform="scale(0.9622302158273381,0.962)">
+                        <image x="0" y="0" p:name="image" id="37ea1ec4ad7747f6aed1dda5c312e802" xlink:href="âInterfaces(2vision-1auditiva).data/001.001.png" xmlns:xlink="http://www.w3.org/1999/xlink" width="556" height="500"/>
+                    </g>
+                </g>
+            </defs>
+            <use xlink:href="#6424e7f473df418ba2136746be1dcbd7" xmlns:xlink="http://www.w3.org/1999/xlink" transform="translate(1, 1)" p:filter="url(#24af14ea2197475ca3059a9e22e7d643)" style="opacity: 0.6; visibility: hidden; display: none;" p:name="bgCopy" id="27e6464c1ac94bfe838f923893e3d209"/>
+            <use xlink:href="#6424e7f473df418ba2136746be1dcbd7" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+        </g></Content></Page><Page><Properties><Property name="name">P Ciega</Property><Property name="id">1410643513693_978</Property><Property name="width">977</Property><Property name="height">536</Property><Property name="dimBackground"/><Property name="transparentBackground">true</Property><Property name="backgroundColor">#FFFFFFFF</Property><Property name="background">transparent</Property></Properties><Content><g xmlns="http://www.w3.org/2000/svg" p:type="Shape" xmlns:p="http://www.evolus.vn/Namespace/Pencil" p:def="Evolus.Common:Bitmap" id="768e939d12384ebfa20de226a1bde832" transform="matrix(1,0,0,1,119,43)"><p:metadata><p:property name="box"><![CDATA[633,423]]></p:property><p:property name="imageData"><![CDATA[633,423,âInterfaces(2vision-1auditiva).data/001.003.png]]></p:property><p:property name="withBlur"><![CDATA[false]]></p:property><p:property name="fillColor"><![CDATA[#FFFFFF00]]></p:property><p:property name="strokeColor"><![CDATA[#000000FF]]></p:property><p:property name="strokeStyle"><![CDATA[0|]]></p:property></p:metadata>
+            <defs>
+                <filter height="1.2558399" y="-0.12792" width="1.06396" x="-0.03198" p:name="imageShading" id="eec9e896b12347dd91adbfa21102089b">
+                    <feGaussianBlur stdDeviation="1.3325" in="SourceAlpha"/>
+                </filter>
+                <g p:name="container" id="4642bd18d15e458ca50943e711ac8ebb">
+                    <rect style="fill: rgb(255, 255, 255); stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 0; fill-opacity: 0;" p:name="bgRect" id="75e3b359954641ff86d43694b7b7ab01" width="633" height="423" transform="translate(0,0)"/>
+                    <g p:name="imageContainer" id="becac8834ddd477f9438a63bcc4ad790" transform="scale(1,1)">
+                        <image x="0" y="0" p:name="image" id="ba69616122994e719071e6db3edccb28" xlink:href="âInterfaces(2vision-1auditiva).data/001.003.png" xmlns:xlink="http://www.w3.org/1999/xlink" width="633" height="423"/>
+                    </g>
+                </g>
+            </defs>
+            <use xlink:href="#4642bd18d15e458ca50943e711ac8ebb" xmlns:xlink="http://www.w3.org/1999/xlink" transform="translate(1, 1)" p:filter="url(#eec9e896b12347dd91adbfa21102089b)" style="opacity: 0.6; visibility: hidden; display: none;" p:name="bgCopy" id="904d087a62444552b67994afc526ee0f"/>
+            <use xlink:href="#4642bd18d15e458ca50943e711ac8ebb" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+        </g></Content></Page><Page><Properties><Property name="name">P Ceguera Parcial</Property><Property name="id">1410643574114_8866</Property><Property name="width">977</Property><Property name="height">536</Property><Property name="dimBackground"/><Property name="transparentBackground">true</Property><Property name="backgroundColor">#FFFFFFFF</Property><Property name="background">transparent</Property></Properties><Content><g xmlns="http://www.w3.org/2000/svg" p:type="Shape" xmlns:p="http://www.evolus.vn/Namespace/Pencil" p:def="Evolus.Common:Bitmap" id="637fc4e4140b4f5d9d03665ce666a838" transform="matrix(1,0,0,1,83,57)"><p:metadata><p:property name="box"><![CDATA[675,428]]></p:property><p:property name="imageData"><![CDATA[675,428,âInterfaces(2vision-1auditiva).data/001.005.png]]></p:property><p:property name="withBlur"><![CDATA[false]]></p:property><p:property name="fillColor"><![CDATA[#FFFFFF00]]></p:property><p:property name="strokeColor"><![CDATA[#000000FF]]></p:property><p:property name="strokeStyle"><![CDATA[0|]]></p:property></p:metadata>
+            <defs>
+                <filter height="1.2558399" y="-0.12792" width="1.06396" x="-0.03198" p:name="imageShading" id="e4b5963d90c94810875f691f7338c4f2">
+                    <feGaussianBlur stdDeviation="1.3325" in="SourceAlpha"/>
+                </filter>
+                <g p:name="container" id="f2a2ce424153482996467864f41088b1">
+                    <rect style="fill: rgb(255, 255, 255); stroke: rgb(0, 0, 0); stroke-opacity: 1; stroke-width: 0; fill-opacity: 0;" p:name="bgRect" id="90a851b44d1d4fc7b30b0d6613475cd1" width="675" height="428" transform="translate(0,0)"/>
+                    <g p:name="imageContainer" id="dafef3821ec04d55b4ee902e576a3a2f" transform="scale(1,1)">
+                        <image x="0" y="0" p:name="image" id="1bb26b20b4be4a318b5554761ad2c831" xlink:href="âInterfaces(2vision-1auditiva).data/001.005.png" xmlns:xlink="http://www.w3.org/1999/xlink" width="675" height="428"/>
+                    </g>
+                </g>
+            </defs>
+            <use xlink:href="#f2a2ce424153482996467864f41088b1" xmlns:xlink="http://www.w3.org/1999/xlink" transform="translate(1, 1)" p:filter="url(#e4b5963d90c94810875f691f7338c4f2)" style="opacity: 0.6; visibility: hidden; display: none;" p:name="bgCopy" id="df6aa249a0c142979b2cad15d7ef5327"/>
+            <use xlink:href="#f2a2ce424153482996467864f41088b1" xmlns:xlink="http://www.w3.org/1999/xlink"/>
+        </g></Content></Page></Pages></Document>
